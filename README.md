@@ -28,7 +28,7 @@ Feel Free to Connect with me
 **Introducing Spotify Data Pipeline: Turning Music Data into Insights**
 
 This project designed a reliable ETL pipeline to transform **Spotify** data into real-time analytics. 
-Leveraging Snowflake and **AWS** services like **S3**, **Lambda**, and** CloudWatch**, the pipeline optimized data flow and performance. 
+Leveraging Snowflake and **AWS** services like **S3**, **Lambda**, and **CloudWatch**, the pipeline optimized data flow and performance. 
 Key music trends and audience behaviors were visualized on **Tableau** dashboards, providing actionable insights to enhance decision making in the music industry.
 
 
