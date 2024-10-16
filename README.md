@@ -82,7 +82,7 @@ It employs machine learning algorithms, including **Random Forest** and **Convol
 4. **Evaluation**: Assessed model performance based on accuracy, precision, recall, and F1-score.
 5. **Visualization**: Used Matplotlib and Seaborn for data visualization and exploratory data analysis (EDA).
 
-**Real-World Use Case**
+## **Real-World Use Case**
 
 **Healthcare Providers:** Predict patient outcomes and tailor personalized treatment strategies for brain cancer patients.
 
